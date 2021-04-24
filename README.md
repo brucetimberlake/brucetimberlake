@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my README. There are many like it, but this one is mine.
+
 <!--
 **brucetimberlake/brucetimberlake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
